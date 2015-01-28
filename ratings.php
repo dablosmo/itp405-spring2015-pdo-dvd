@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="bootstrap.css">
+
 <?php 
 
 $rating = $_GET['rating']; 

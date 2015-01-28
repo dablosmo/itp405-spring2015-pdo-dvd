@@ -2,6 +2,7 @@
 <html>
 <head> 
 	<title>DVD Search</title> 
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
 </head>
 <body> 
 
