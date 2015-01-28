@@ -1,7 +1,7 @@
 <?php 
 
 if (!isset($_GET['title'])) { 
-	header("Location: index.php");
+	header("Location: search.php");
 }
 
 $title = $_GET['title'];
